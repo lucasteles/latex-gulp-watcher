@@ -15,7 +15,11 @@ Para instalar as dependencias, na pasta `docs` deste repositorio rode
 npm install
 ```
 
+<<<<<<< HEAD
 #### Iniciando monitor de compila�ao do latex
+=======
+#### Iniciando monitor de compilação do latex
+>>>>>>> 3167b576c6442caed9c8beb5f0f1e75fe6399d23
 Rode na pasta docs/ onde se encontra o arquivo `gumpfile.js`
 
 ```sh
