@@ -22,5 +22,5 @@ Rode na pasta docs/ onde se encontra o arquivo `gumpfile.js`
 gulp
 ```
 
-toda alteração no arquivo `.tex` na pasta tex ira gerar altomaticamente o pdf na pasta pdf/
+toda alteração no arquivo `.tex` na pasta tex ira gerar automaticamente o pdf na pasta pdf/
 
